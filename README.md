@@ -18,7 +18,7 @@ Push this repository to GitHub, then open **Settings → Pages**. Under **Build 
 
 <https://the-wang-qiao.github.io/wang_yibo.github.io/>
 
-The repository name alone does not create <https://wang_yibo.github.io/>. That root address belongs to the GitHub user or organization named `wang_yibo`. A project in the `The-wang-qiao` account uses the project URL above unless the site is assigned a domain you control.
+The repository name alone does not create `https://wang_yibo.github.io/`. GitHub account names cannot contain underscores, so that exact root address is not available as a GitHub Pages user site. A project in the `The-wang-qiao` account uses the project URL above. To use a shorter address, configure a separate domain you control in **Settings → Pages**.
 
 ## Content to complete
 
